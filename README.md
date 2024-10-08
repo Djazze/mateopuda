@@ -1,7 +1,5 @@
 ![Header](./github-header-image.png)
 
-### I'm QA Automation Engineer and Developer !!!
-
 ✓ I’m currently working on something cool :wink: <br>
 ✓ I’m currently learning everything 🤣 <br>
 ✓ I’m looking to collaborate with other content creators <br>
